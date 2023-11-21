@@ -1,0 +1,15 @@
+Plateforme de Cuisine et Culture:
+        Objectif: Explorer et partager des recettes et traditions culinaires.
+        Nom: FlavorJourney
+        Palette de Couleurs:
+            Jaune safran (#F4C542)
+            Rouge tomate (#FF6347)
+            Marron (#8B4513)
+
+
+FlavorJourney:
+
+    Fonctionnalités:
+        Base de données de recettes interactives.
+        Tutoriels de cuisine en direct avec des chefs renommés.
+        Plateforme d'échange de recettes et d'ingrédients.
